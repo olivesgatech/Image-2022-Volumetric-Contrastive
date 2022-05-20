@@ -18,5 +18,5 @@ If you find the work useful, please include the following citation in your work:
   title={Volumetric Supervised Contrastive Learning for Seismic Semantic Segmentation},\
   author={Kokilepersaud, Kiran, Prabhushankar, Mohit and AlRegib, Ghassan},\
   booktitle={2022 The International Meeting for Applied Geoscience & Energy},\
-  year={2022}
+  year={2022}\
 }
