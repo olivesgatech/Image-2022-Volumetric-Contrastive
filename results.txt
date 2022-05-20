@@ -1,0 +1,45 @@
+/home/kiran/Desktop/Dev/Seismic/SupContrast/save/SupCon/Seismic_models/SimCLR_Seismic_resnet18_lr_0_0.001_decay_0.0001_bsz_64_temp_0.07_trial_0/last.pth
+tensor(92.1701, device='cuda:0')
+0.8127998944218285
+/home/kiran/Desktop/Dev/Seismic/SupContrast/save/SupCon/Seismic_models/SimCLR_Seismic_resnet18_lr_0_0.001_decay_0.0001_bsz_64_temp_0.07_trial_0/last.pth
+tensor(85.2959, device='cuda:0')
+0.523546924617272
+/home/kiran/Desktop/Dev/Seismic/SupContrast/save/SupCon/Seismic_models/SimCLR_Seismic_resnet18_lr_0_0.001_decay_0.0001_bsz_64_temp_0.07_trial_0/last.pth
+tensor(90.9399, device='cuda:0')
+0.6983266861526598
+/home/kiran/Desktop/Dev/Seismic/SupContrast/save/SupCon/Seismic_models/SupCon_Seismic_resnet18_lr_10_0.001_decay_0.0001_bsz_64_temp_0.07_trial_0/last.pth
+tensor(92.4710, device='cuda:0')
+0.8082458469241537
+/home/kiran/Desktop/Dev/Seismic/SupContrast/save/SupCon/Seismic_models/SupCon_Seismic_resnet18_lr_10_0.001_decay_0.0001_bsz_64_temp_0.07_trial_0/last.pth
+tensor(86.4666, device='cuda:0')
+0.5292808882665028
+/home/kiran/Desktop/Dev/Seismic/SupContrast/save/SupCon/Seismic_models/SupCon_Seismic_resnet18_lr_10_0.001_decay_0.0001_bsz_64_temp_0.07_trial_0/last.pth
+tensor(92.2688, device='cuda:0')
+0.7276672871894935
+/home/kiran/Desktop/Dev/Seismic/SupContrast/save/SupCon/Seismic_models/SupCon_Seismic_resnet18_lr_50_0.001_decay_0.0001_bsz_64_temp_0.07_trial_0/last.pth
+tensor(91.9232, device='cuda:0')
+0.8146139320424551
+/home/kiran/Desktop/Dev/Seismic/SupContrast/save/SupCon/Seismic_models/SupCon_Seismic_resnet18_lr_50_0.001_decay_0.0001_bsz_64_temp_0.07_trial_0/last.pth
+tensor(86.5627, device='cuda:0')
+0.5321256059072397
+/home/kiran/Desktop/Dev/Seismic/SupContrast/save/SupCon/Seismic_models/SupCon_Seismic_resnet18_lr_50_0.001_decay_0.0001_bsz_64_temp_0.07_trial_0/last.pth
+tensor(91.6138, device='cuda:0')
+0.7113937781581962
+/home/kiran/Desktop/Dev/Seismic/SupContrast/save/SupCon/Seismic_models/SupCon_Seismic_resnet18_lr_100_0.001_decay_0.0001_bsz_64_temp_0.07_trial_0/last.pth
+tensor(91.9690, device='cuda:0')
+0.7958297557945192
+/home/kiran/Desktop/Dev/Seismic/SupContrast/save/SupCon/Seismic_models/SupCon_Seismic_resnet18_lr_100_0.001_decay_0.0001_bsz_64_temp_0.07_trial_0/last.pth
+tensor(86.6300, device='cuda:0')
+0.535383690024528
+/home/kiran/Desktop/Dev/Seismic/SupContrast/save/SupCon/Seismic_models/SupCon_Seismic_resnet18_lr_100_0.001_decay_0.0001_bsz_64_temp_0.07_trial_0/last.pth
+tensor(91.3138, device='cuda:0')
+0.6934659968745748
+/home/kiran/Desktop/Dev/Seismic/SupContrast/save/SupCon/Seismic_models/SupCon_Seismic_resnet18_lr_150_0.001_decay_0.0001_bsz_64_temp_0.07_trial_0/last.pth
+tensor(92.3758, device='cuda:0')
+0.8126925136045458
+/home/kiran/Desktop/Dev/Seismic/SupContrast/save/SupCon/Seismic_models/SupCon_Seismic_resnet18_lr_150_0.001_decay_0.0001_bsz_64_temp_0.07_trial_0/last.pth
+tensor(86.8501, device='cuda:0')
+0.5328711964900202
+/home/kiran/Desktop/Dev/Seismic/SupContrast/save/SupCon/Seismic_models/SupCon_Seismic_resnet18_lr_150_0.001_decay_0.0001_bsz_64_temp_0.07_trial_0/last.pth
+tensor(92.0878, device='cuda:0')
+0.7176986403157538
