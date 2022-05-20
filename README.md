@@ -14,9 +14,9 @@
 
 If you find the work useful, please include the following citation in your work:
 
->@inproceedings{kokilepersaud2022volumetric,
-  title={Volumetric Supervised Contrastive Learning for Seismic Semantic Segmentation},
-  author={Kokilepersaud, Kiran, Prabhushankar, Mohit and AlRegib, Ghassan},
-  booktitle={2022 The International Meeting for Applied Geoscience & Energy},
+>@inproceedings{kokilepersaud2022volumetric,\
+  title={Volumetric Supervised Contrastive Learning for Seismic Semantic Segmentation},\
+  author={Kokilepersaud, Kiran, Prabhushankar, Mohit and AlRegib, Ghassan},\
+  booktitle={2022 The International Meeting for Applied Geoscience & Energy},\
   year={2022}
 }
