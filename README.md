@@ -1,8 +1,8 @@
 # Volumetric Supervised Contrastive Learning for Seismic Semantic Segmentation
+## Dataset
 
-## Usage
-- Run code in main_supcon.py to perform supervised contrastive learning on volume and generate model file.
-- Run code in main_seismic_semantic.py to do semantic segmentation on model file generated in first step.
+## Code Usage
+
 
 ## Links
 
